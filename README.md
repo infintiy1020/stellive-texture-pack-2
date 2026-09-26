@@ -21,3 +21,5 @@ https://github.com/user-attachments/assets/0f0a5a88-358a-4cd1-b791-737d10b3d664
 https://github.com/user-attachments/assets/32013ba6-5230-4667-aa42-5ee6a431eb36
 https://github.com/user-attachments/assets/052db207-93da-430f-8f9b-b8176ceff67e
 https://github.com/user-attachments/assets/f56df2cd-dee0-4601-85f7-9dba74a43b54
+https://github.com/user-attachments/files/32680831/entry.sound.mp3
+https://github.com/user-attachments/files/32680838/intro.theme.mp3
